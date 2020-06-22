@@ -1,4 +1,5 @@
 # Complete Artificial Intelligence & Python & Interview Practice.
+
 ## @Rakesh Kumar
 #### Email ID : rakesh.sit045@gmail.com
 #### Linkedin ID : https://www.linkedin.com/in/rakesh-kumar-gupta-52b77ab4/
@@ -7,8 +8,9 @@
 
 ### Contact me any time, If you are having any queries.
 
-I have been implementing Artificial Intelligence(Data Science, Machine Learning, Deep Learning, & NLP) problems statement.
-I have been also implementing Python Coding & Interview Questions with Python, Data Structure & something more.
+I have implemented Artificial Intelligence(Data Science, Machine Learning, Deep Learning, & NLP) problem statements.
+
+Also I am Coding practitioner & work well with Interview preparation, Python, Java, Data Structure & much more.
 
 ### Run any files on jupyter notebook, terminal/command prompt & analysis the output for more learning.
 
