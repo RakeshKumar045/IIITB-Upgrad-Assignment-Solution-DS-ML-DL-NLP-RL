@@ -7,9 +7,9 @@
 
 ### Contact me any time, If you are having any queries.
 
-I have implemented Artificial Intelligence(Data Science, Machine Learning, Deep Learning, & NLP) problems statement.
+I have implemented Artificial Intelligence(Data Science, Machine Learning, Deep Learning, & NLP) problem statements.
 
-I am also Coding practitioner & work well with Interview preparation, Python, Java, Data Structure & more.
+Also I am Coding practitioner & work well with Interview preparation, Python, Java, Data Structure & much more.
 
 ### Run any files on jupyter notebook, terminal/command prompt & analysis the output for more learning.
 
