@@ -1,4 +1,4 @@
-# Upgrad All Assignment and Capstone Project(Time Series Forecasting) .
+# Upgrad All Assignments and Capstone Project(Time Series Forecasting) .
 
 ## Follow Me:
  
